@@ -12,4 +12,4 @@ I haven't changed the default name of the page though. Its posts-custom.php. Its
 
 Fonts
 
-I have embedded a cuple of fonts like Open Sans, Ubuntu etc. in the fonts folder.
+I have embedded a couple of fonts like Open Sans, Ubuntu etc. in the fonts folder.
